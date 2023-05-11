@@ -1,0 +1,81 @@
+nav img{
+    height: 75px;
+    width: 75px;
+}
+
+nav {
+    background-color: #9dafba;
+}
+
+.container-fluid a  {
+    color: black;
+}
+
+.d-flex button {
+    background-color: #E5DCD6;
+    color:black;
+}
+
+.d-flex button :hover{
+    background-color: #9dafba;
+    color:black;
+}
+
+.carousel-inner img {
+  height: 555px;
+  width: 700px;
+}
+
+body{
+    background-color: #E5DCD6;
+}
+
+footer {
+    text-align: center;
+    background-color: #6666;
+    color: white;
+}
+
+footer img {
+    width: 90px;
+    height: 90px;
+}
+
+.logos img {
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+.logos a {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    font-style: bold;
+    color:  #dba23c;
+}
+
+.btn-nav button:hover {
+    background-color: #dba23c;
+    border: 1px solid rgb(255, 145, 0);
+}
+.container-fluid a  {
+    color: black;
+}
+
+.container button a {
+    text-decoration: none;
+}
+
+.d-flex button {
+    background-color: #c4810d;
+    color:rgb(255, 255, 255);
+    border: rgb(139, 89, 23) solid 1px;
+}
+
+.d-flex {
+    color:#dba23c
+}

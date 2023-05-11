@@ -1,0 +1,94 @@
+nav img{
+    height: 75px;
+    width: 75px;
+}
+
+.navbar {
+    background-color: #9dafba;
+}
+
+.btn-nav button:hover {
+    background-color: #dba23c;
+    border: 1px solid rgb(255, 145, 0);
+}
+
+.container-fluid a  {
+    color: black;
+
+}
+
+.container button a {
+    text-decoration: none;
+}
+
+.d-flex button {
+    background-color: #c4810d;
+    color:rgb(255, 255, 255);
+    border: rgb(139, 89, 23) solid 1px;
+}
+
+.d-flex {
+    color:#dba23c;
+}
+
+.carousel-inner img {
+  height: 555px;
+}
+
+body{
+    background-color: #E5DCD6;
+}
+
+.botao {
+   background-color: #9dafba;
+   height: 60px;
+   width: 100px;
+   border-radius: 10px;
+   border:solid 1px black;
+   margin-left: 15px;
+}
+
+.botao a{
+    color: white;
+}
+
+hr {
+    width: 100% ;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    background-color: #666; opacity: 0.5;
+}  
+
+.quem_somos {
+    background-color: #9dafba;
+    text-align: center;
+    border:solid 1px black;
+}
+
+.quem_somos img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.pagamentos{
+    text-align: center;
+}
+
+.pagamentos img {
+    height: 80px;
+    object-fit: cover;
+}
+
+footer {
+    text-align: center;
+    background-color: #6666;
+    color: white;
+}
+
+footer img {
+    width: 90px;
+    height: 90px;
+}
